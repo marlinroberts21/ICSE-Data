@@ -1,0 +1,244 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 389,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 773,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 135,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 519,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 264,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 649,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 399,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 783,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 659,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : "HTML"
+  }, {
+    "ID" : 533,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 279,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 409,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 793,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 543,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 160,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 289,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 673,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 423,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 553,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 299,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 683,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 433,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 693,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 567,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 313,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 443,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 703,
+    "SPFsym" : "",
+    "input" : "LENGTH"
+  }, {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 453,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 581,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 328,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 463,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 591,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 719,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 338,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 729,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 605,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 479,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 225,
+    "SPFsym" : "",
+    "input" : "TABLE"
+  }, {
+    "ID" : 353,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 739,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 615,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 489,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 363,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 749,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 239,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 113,
+    "SPFsym" : "",
+    "input" : "DATABASE"
+  }, {
+    "ID" : 625,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 499,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 373,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 759,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 509,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 254,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 639,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

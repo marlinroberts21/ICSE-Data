@@ -1,0 +1,76 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 1730,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 37,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 965,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1992,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1865,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 332,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 429,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 526,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 623,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 751,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1199,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 848,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1296,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1424,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1521,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1618,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 186,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1082,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

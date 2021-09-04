@@ -1,0 +1,164 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 389,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 453,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 581,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 773,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 328,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 649,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 399,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 719,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 783,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 533,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 279,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 729,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 793,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 605,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 479,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 543,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 289,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 353,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 673,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 739,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 423,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 615,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 489,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 363,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 683,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 749,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 433,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 499,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 693,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 443,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 509,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 254,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 639,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

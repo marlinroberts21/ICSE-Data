@@ -1,0 +1,180 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 387,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 709,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 773,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 135,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 328,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 523,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 397,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 653,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 719,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 595,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : "HTML"
+  }, {
+    "ID" : 469,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 533,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 279,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 663,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 729,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 413,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 479,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 289,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 353,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 673,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 423,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 489,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 619,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 557,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 239,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 433,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 753,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 499,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 629,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 313,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 377,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 443,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 571,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 699,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 763,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 254,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 639,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  } ]
+}

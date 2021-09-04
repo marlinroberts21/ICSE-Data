@@ -1,0 +1,68 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 2528,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 161,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1026,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 2946,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1667,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1894,
+    "SPFsym" : "",
+    "input" : "L"
+  }, {
+    "ID" : 551,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 2312,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1451,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 209,
+    "SPFsym" : "",
+    "input" : "Y"
+  }, {
+    "ID" : 1235,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 2744,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 3162,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 3259,
+    "SPFsym" : "",
+    "input" : "A"
+  }, {
+    "ID" : 2110,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 799,
+    "SPFsym" : "",
+    "input" : "G"
+  } ]
+}

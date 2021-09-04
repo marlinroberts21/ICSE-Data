@@ -1,0 +1,128 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 2560,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1922,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2116,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3463,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1288,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1482,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 972,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 269,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 23,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2775,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3863,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3161,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 475,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1179,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3355,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 669,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2463,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2019,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1385,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 875,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 172,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 366,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1590,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3766,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2872,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3064,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1082,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 3258,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 572,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 766,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 2366,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

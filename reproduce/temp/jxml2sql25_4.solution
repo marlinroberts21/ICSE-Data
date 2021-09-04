@@ -1,0 +1,148 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 581,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 645,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 135,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 328,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 463,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 591,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 655,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : "HTML"
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 279,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 535,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 409,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 473,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 601,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 289,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 353,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 545,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 419,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 611,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 363,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 555,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 429,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 239,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 497,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 373,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 439,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 313,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 635,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 254,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 383,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 511,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

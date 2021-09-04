@@ -1,0 +1,40 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 400,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 113,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 466,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 532,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 710,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 201,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 621,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 46,
+    "SPFsym" : "",
+    "input" : "email"
+  }, {
+    "ID" : 334,
+    "SPFsym" : "",
+    "input" : "email"
+  } ]
+}
