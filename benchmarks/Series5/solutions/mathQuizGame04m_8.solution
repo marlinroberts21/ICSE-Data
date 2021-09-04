@@ -1,0 +1,16 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : "HISCHOOL"
+  }, {
+    "ID" : 252,
+    "SPFsym" : "",
+    "input" : "/CLEAR"
+  }, {
+    "ID" : 302,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

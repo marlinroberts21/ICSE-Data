@@ -1,0 +1,12 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 252,
+    "SPFsym" : "",
+    "input" : "/QUIT"
+  } ]
+}

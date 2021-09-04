@@ -1,0 +1,32 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 400,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 514,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 628,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 742,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 247,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 856,
+    "SPFsym" : "",
+    "input" : "/QUIT"
+  }, {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

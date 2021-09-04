@@ -1,0 +1,12 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 247,
+    "SPFsym" : "",
+    "input" : "/HELP"
+  }, {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

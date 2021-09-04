@@ -1,0 +1,156 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 3396,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 5316,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 5957,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1865,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 4236,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : "Y"
+  }, {
+    "ID" : 8013,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1233,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2514,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 6802,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 4691,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 7830,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 6170,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 3611,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 5531,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2078,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 7647,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 7456,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 161,
+    "SPFsym" : "",
+    "input" : "A"
+  }, {
+    "ID" : 6369,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 3810,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 547,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1446,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 807,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2727,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 4904,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 7018,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 5103,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 5744,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 4465,
+    "SPFsym" : "",
+    "input" : "R"
+  }, {
+    "ID" : 2291,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 3187,
+    "SPFsym" : "",
+    "input" : "R"
+  }, {
+    "ID" : 6582,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 4023,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 7225,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1659,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1020,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2940,
+    "SPFsym" : "",
+    "input" : "K"
+  } ]
+}

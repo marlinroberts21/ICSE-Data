@@ -1,0 +1,200 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 384,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 518,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 646,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 135,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 264,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 394,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 656,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 274,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 404,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 532,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : "HTML"
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 666,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 284,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 414,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 676,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 298,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 556,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 430,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 690,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 566,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 440,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 313,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 700,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 576,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 450,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 710,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 460,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 590,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 338,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 470,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 600,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 348,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 225,
+    "SPFsym" : "",
+    "input" : "TABLE"
+  }, {
+    "ID" : 610,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 484,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 358,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 620,
+    "SPFsym" : "",
+    "input" : "LENGTH"
+  }, {
+    "ID" : 494,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 239,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 113,
+    "SPFsym" : "",
+    "input" : "DATABASE"
+  }, {
+    "ID" : 374,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 504,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 636,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 1089,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1203,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1443,
+    "SPFsym" : "",
+    "input" : "N"
+  }, {
+    "ID" : 405,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1317,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 519,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 633,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : "HISCHOOL"
+  }, {
+    "ID" : 747,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 252,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 861,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 975,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

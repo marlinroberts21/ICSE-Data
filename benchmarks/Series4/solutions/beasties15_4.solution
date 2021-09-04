@@ -1,0 +1,156 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 7809,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2116,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1032,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 4872,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1673,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 5513,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 6985,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 4235,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 209,
+    "SPFsym" : "",
+    "input" : "Y"
+  }, {
+    "ID" : 3601,
+    "SPFsym" : "",
+    "input" : "L"
+  }, {
+    "ID" : 7889,
+    "SPFsym" : "",
+    "input" : "A"
+  }, {
+    "ID" : 5074,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 7188,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2967,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 4441,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 2332,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 5727,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 1248,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 161,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 7395,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 3813,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 551,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 5291,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 1900,
+    "SPFsym" : "",
+    "input" : "L"
+  }, {
+    "ID" : 5934,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 3183,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 6127,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 6575,
+    "SPFsym" : "",
+    "input" : "R"
+  }, {
+    "ID" : 816,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 4656,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 1457,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 7602,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2549,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 3385,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 6778,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 4029,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 6334,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 2751,
+    "SPFsym" : "",
+    "input" : "G"
+  } ]
+}

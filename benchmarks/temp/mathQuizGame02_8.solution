@@ -1,0 +1,28 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 374,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 283,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 523,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 252,
+    "SPFsym" : "",
+    "input" : "/RESTART"
+  }, {
+    "ID" : 637,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

@@ -1,0 +1,228 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 387,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 135,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 264,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 649,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 523,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 397,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 659,
+    "SPFsym" : "",
+    "input" : "LENGTH"
+  }, {
+    "ID" : 20,
+    "SPFsym" : "",
+    "input" : "HTML"
+  }, {
+    "ID" : 533,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 150,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 279,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 413,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 543,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 160,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 289,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 675,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 423,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 557,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 685,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 175,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 303,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 433,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 695,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 185,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 313,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 443,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 571,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 705,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 195,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 323,
+    "SPFsym" : "",
+    "input" : "FIELD"
+  }, {
+    "ID" : 453,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 581,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 715,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 205,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 337,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 595,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 469,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 215,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 729,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 605,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 479,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 352,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 225,
+    "SPFsym" : "",
+    "input" : "TABLE"
+  }, {
+    "ID" : 739,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 615,
+    "SPFsym" : "",
+    "input" : "TYPE"
+  }, {
+    "ID" : 489,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 362,
+    "SPFsym" : "",
+    "input" : "DESCRIPTION"
+  }, {
+    "ID" : 749,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 239,
+    "SPFsym" : "",
+    "input" : "NAME"
+  }, {
+    "ID" : 113,
+    "SPFsym" : "",
+    "input" : "DATABASE"
+  }, {
+    "ID" : 499,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 629,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 377,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 509,
+    "SPFsym" : "",
+    "input" : "OPTION"
+  }, {
+    "ID" : 254,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 639,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

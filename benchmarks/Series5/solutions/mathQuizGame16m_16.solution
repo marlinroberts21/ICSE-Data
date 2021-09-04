@@ -1,0 +1,16 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 242,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 122,
+    "SPFsym" : "",
+    "input" : "ELEMENT"
+  }, {
+    "ID" : 395,
+    "SPFsym" : "",
+    "input" : ""
+  } ]
+}

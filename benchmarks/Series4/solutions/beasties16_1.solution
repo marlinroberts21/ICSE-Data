@@ -1,0 +1,72 @@
+{
+  "SAT" : true,
+  "inputs" : [ {
+    "ID" : 161,
+    "SPFsym" : "",
+    "input" : ""
+  }, {
+    "ID" : 1921,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 3011,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 551,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 1703,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 2793,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 3433,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 3530,
+    "SPFsym" : "",
+    "input" : "A"
+  }, {
+    "ID" : 1485,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 1039,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 2575,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 1264,
+    "SPFsym" : "",
+    "input" : "H"
+  }, {
+    "ID" : 209,
+    "SPFsym" : "",
+    "input" : "Y"
+  }, {
+    "ID" : 817,
+    "SPFsym" : "",
+    "input" : "K"
+  }, {
+    "ID" : 3217,
+    "SPFsym" : "",
+    "input" : "G"
+  }, {
+    "ID" : 2357,
+    "SPFsym" : "",
+    "input" : "P"
+  }, {
+    "ID" : 2139,
+    "SPFsym" : "",
+    "input" : "P"
+  } ]
+}
