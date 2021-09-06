@@ -3,6 +3,8 @@
 
 This data contains data, benchmarks and scripts to reproduce the results of the paper __"Test Input Generation for Java String Programs Using an Automata-based Solver"__
 
+The solver is written in Java and requires Java 8 SE or later to run. Set compatibility level to Java 8 if using newer versions. 
+
 The benchmarks and generated solution files are located in:
 
 ```benchmarks```  
@@ -51,4 +53,4 @@ The resulting consolidated file is located in:
 
 These files have an extension of ```.con``` and contain one line for each benchmark within the series. The first comma separated value is the length for that particular run, followed by 3 integer values representing the time in milliseconds for each run. The average of these times was used to report runtimes in the paper. Note that the time reported is the backward analysis time and __not__ the total time taken to run the benchmark. In almost all cases, the forward analysis time is significantly longer.
 
-The individual run files have a hardcoded timeout of 30 minutes. This can be changed by editing the individual run scripts. Each series as a run script for each length: 1, 2, 4, 8, 16. For instance, ```runB16.sh``` is the file that runs the "beasties" benchmark at length 16. The timeouts can be changed by editing these files. 
+The individual run files have a hardcoded timeout of 30 minutes. This can be changed by editing the individual run scripts. Each series as a run script for each length: 1, 2, 4, 8, 16. For instance, ```runB16.sh``` is the file that runs the "beasties" benchmark at length 16. The timeouts can be changed by editing these files.
